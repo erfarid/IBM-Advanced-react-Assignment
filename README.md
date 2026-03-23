@@ -1,4 +1,4 @@
-# IBM Advanced Assignment
+# IBM Advanced React Assignment
 
 A React portfolio-style web application built as part of an advanced React assignment.  
 The project includes a landing section, featured projects section, contact form with validation, and a responsive header/footer layout.
